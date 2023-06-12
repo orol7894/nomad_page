@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nomad_page/static/js/main.09ef2adb.js",
+    "main.js": "/nomad_page/static/js/main.f9906126.js",
     "index.html": "/nomad_page/index.html",
-    "main.09ef2adb.js.map": "/nomad_page/static/js/main.09ef2adb.js.map"
+    "main.f9906126.js.map": "/nomad_page/static/js/main.f9906126.js.map"
   },
   "entrypoints": [
-    "static/js/main.09ef2adb.js"
+    "static/js/main.f9906126.js"
   ]
 }
